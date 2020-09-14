@@ -12,4 +12,3 @@ hello spark hello flink hello world  [edit to github by jh]
 hello spark hello flink hello world  [edit to github by jh]
 hello spark hello flink hello world  [edit to github by jh]
 hello spark hello flink hello world  [edit to github by jh]
-hello spark hello flink hello world  
