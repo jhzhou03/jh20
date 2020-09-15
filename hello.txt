@@ -13,3 +13,4 @@ hello spark hello flink hello world  [edit to github by parter01]
 hello spark hello flink hello world  [edit to github  本地修改]
 hello spark hello flink hello world  [edit to github by parter01 ,又修改了]
 欲练此功，必先自宫
+不想自宫，也可练功
